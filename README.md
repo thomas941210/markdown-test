@@ -86,12 +86,12 @@
   
   # 이미지(Images)
   <!-- 이미지 생성시 [대체텍스트](이미지 주소) 이러면 이미지 대체텍스트만 나옴 -->
-  [HEROPY](https://heropy.blog/css/images/logo.png)
+  [이미지](https://heropy.blog/css/images/logo.png)
   <!-- 이미지 생성시 ![대체텍스트](이미지 주소) !를 붙히면 이미지가 나옴 -->
-  ![HEROPY](https://heropy.blog/css/images/logo.png)
+  ![이미지](https://heropy.blog/css/images/logo.png)
 
   <!-- 만약 이미지에 링를 넣고싶다면? -->
-  [![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
+  [![이미지](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
 
 
   # 인용문(BlockQuote)
@@ -173,7 +173,7 @@
 
   ___
 
-  <img width="70" src="https://heropy.blog/css/images/logo.png" alt="HEROPY" />
+  <img width="70" src="https://heropy.blog/css/images/logo.png" alt="이미지" />
 
   
   # 수평선(Horizontal Rule)
